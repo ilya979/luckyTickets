@@ -1,0 +1,15 @@
+C:\Users\ibaikov\source\repos\luckyTickets\luckyTickets\bin\Debug\net6.0\luckyTickets.exe
+C:\Users\ibaikov\source\repos\luckyTickets\luckyTickets\bin\Debug\net6.0\luckyTickets.deps.json
+C:\Users\ibaikov\source\repos\luckyTickets\luckyTickets\bin\Debug\net6.0\luckyTickets.runtimeconfig.json
+C:\Users\ibaikov\source\repos\luckyTickets\luckyTickets\bin\Debug\net6.0\luckyTickets.dll
+C:\Users\ibaikov\source\repos\luckyTickets\luckyTickets\bin\Debug\net6.0\luckyTickets.pdb
+C:\Users\ibaikov\source\repos\luckyTickets\luckyTickets\obj\Debug\net6.0\luckyTickets.csproj.AssemblyReference.cache
+C:\Users\ibaikov\source\repos\luckyTickets\luckyTickets\obj\Debug\net6.0\luckyTickets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibaikov\source\repos\luckyTickets\luckyTickets\obj\Debug\net6.0\luckyTickets.AssemblyInfoInputs.cache
+C:\Users\ibaikov\source\repos\luckyTickets\luckyTickets\obj\Debug\net6.0\luckyTickets.AssemblyInfo.cs
+C:\Users\ibaikov\source\repos\luckyTickets\luckyTickets\obj\Debug\net6.0\luckyTickets.csproj.CoreCompileInputs.cache
+C:\Users\ibaikov\source\repos\luckyTickets\luckyTickets\obj\Debug\net6.0\luckyTickets.dll
+C:\Users\ibaikov\source\repos\luckyTickets\luckyTickets\obj\Debug\net6.0\refint\luckyTickets.dll
+C:\Users\ibaikov\source\repos\luckyTickets\luckyTickets\obj\Debug\net6.0\luckyTickets.pdb
+C:\Users\ibaikov\source\repos\luckyTickets\luckyTickets\obj\Debug\net6.0\luckyTickets.genruntimeconfig.cache
+C:\Users\ibaikov\source\repos\luckyTickets\luckyTickets\obj\Debug\net6.0\ref\luckyTickets.dll
